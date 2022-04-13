@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuejia Tong
-- 👀 I’m interested in watch NBA, playing basketball, playing games(CS:GO&Genshin Impact)
+- 👀 I’m interested in watch NBA, playing basketball, playing games(CS:GO & Genshin Impact)
 - 🌱 I’m currently learning Software Development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yuejiat0416@gmail.com
